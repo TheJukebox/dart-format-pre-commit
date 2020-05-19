@@ -1,1 +1,1 @@
-call dartfmt.bat --write $@
+call dartfmt.bat -w $@
