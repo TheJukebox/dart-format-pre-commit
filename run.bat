@@ -1,0 +1,1 @@
+call dartfmt.bat --write $@

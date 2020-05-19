@@ -1,5 +1,5 @@
 -   id: dart-format
     name: Format Dart Code
-    entry: run
+    entry: run.bat
     language: script
     files: \.dart$
